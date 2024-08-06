@@ -1,7 +1,7 @@
 # workindia-azmat
 
 
-AN API Application that does the following
+AN API Application that does Dining Booking Reservation
 
 Before booking, check if the slot is available. Also, give the user the next available slot in case of unavailability of the asked timings.
 For eg: If a booking is made with the “start_time” as “2024-01-01T16:00:00Z” and “end_time” as “2024-01-01T17:00:00Z” then the
